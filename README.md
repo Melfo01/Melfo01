@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Guillaume Thirard, a senior PHP 🐘 developper / lead-developper. I'm working with PHP since 2011 and I like it 😎
+I'm Guillaume Thirard, a senior PHP 🐘 developer / lead-developer. I'm working with PHP since 2011 and I like it 😎
 
 I'm currently freelance and I'm working at [Bedrock](https://www.bedrockstreaming.com/) (ex M6Web) in 📍 Lyon
 
